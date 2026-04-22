@@ -6,7 +6,7 @@ It uses predefined 5×5 patterns to render characters in a block-style format us
 
 
 ## Preview
-![Output](out.png.png)
+![Output](output.png.png)
 
 
 
